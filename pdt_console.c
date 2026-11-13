@@ -209,7 +209,7 @@ pdt_wrap_console()
     }
   }
 
-  return TRUE;
+  return true;
 }
 
 
